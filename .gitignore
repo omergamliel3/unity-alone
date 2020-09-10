@@ -1,0 +1,6 @@
+/Assets/assets
+/Alone exe v1
+/obj
+*.sln
+*.csproj
+.vs
