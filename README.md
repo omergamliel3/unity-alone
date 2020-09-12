@@ -17,7 +17,7 @@ I developed the game as part of a graduation project at the Weizmann Institute i
 
 ## Download the game
 
-[Alone](https://drive.google.com/drive/folders/0B-u6v7WwhosebEhKSU5MU201dU0?usp=sharing)
+- [Alone](https://drive.google.com/drive/folders/0B-u6v7WwhosebEhKSU5MU201dU0?usp=sharing)
 
 # Author 🙋
 
