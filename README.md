@@ -6,15 +6,15 @@ I developed the game as part of a graduation project at the Weizmann institute o
 
 ## Screenshots
 
-<img src="screenshots/alone_screenshot_5.png"/>
+<img src="Screenshots/alone_screenshot_5.png"/>
 
-<img src="screenshots/alone_screenshot.png">
+<img src="Screenshots/alone_screenshot.png">
 
-<img src="screenshots/alone_screenshot_4.png"/>
+<img src="Screenshots/alone_screenshot_4.png"/>
 
-<img src="screenshots/alone_screenshot_2.png"/>
+<img src="Screenshots/alone_screenshot_2.png"/>
 
-<img src="screenshots/alone_screenshot_3.png"/>
+<img src="Screenshots/alone_screenshot_3.png"/>
 
 ## Technologies
 
