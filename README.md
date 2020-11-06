@@ -2,7 +2,7 @@
 
 A 3d FPS game project, built with Unity.
 
-I developed the game as part of final graduation project at the Weizmann institute of science in 12th grade.
+"Alone" has been developed as a part of final graduation project at the "Weizmann institute of science" in 12th grade.
 
 ## Screenshots
 
